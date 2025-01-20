@@ -7,3 +7,5 @@ This is another line.
 This change will get pulled.
 
 This should be in a branch.
+
+This change will be merged in github rather than locally.
